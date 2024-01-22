@@ -10,6 +10,7 @@
 // Created by Joseph Antoniou on 19/06/2023.
 //
 int main() {
+    // Demonstration of the visitor pattern.
     Rectangle* r = new Rectangle(100, 50);
     Square* sq = new Square(20, 20);
     Circle* circle = new Circle(5.8);
