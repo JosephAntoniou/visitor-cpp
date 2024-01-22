@@ -14,8 +14,6 @@ public:
     ~Circle() override;
     double getRadius() const;
 
-
-
 private:
     double radius_;
 };
